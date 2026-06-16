@@ -17,8 +17,7 @@ El proyecto trabaja con tres datasets que registran información de planes, clie
 
 Haz clic en el siguiente botón:
 
-[![Open In Colab]
-https://colab.research.google.com/drive/1ajHYnRG5YzqtSGCFxbj5EzPLu51g1Ue7?usp=sharing
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/imjesusgarcia/Project-ConnectaTel-Student/blob/main/Estudiante_Project_ConnectaTel.ipynb)
 
 O:
 
